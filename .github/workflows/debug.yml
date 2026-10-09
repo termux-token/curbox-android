@@ -1,11 +1,10 @@
-Name: Debug CI
+name: Debug CI
 
 on:
-  workflow_dispatch: # Manual trigger
+  workflow_dispatch:
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
@@ -34,4 +33,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: fdroid-debug-apk
-          path: app/build/outputs/apk/fdroid/debug/*.apk
+          path: app/build/outputs/apk/fdroid/debug
