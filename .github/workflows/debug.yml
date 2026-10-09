@@ -20,17 +20,16 @@ jobs:
       - name: Give permission to executable
         run: chmod +x gradlew
 
-      - name: Clear build cache
-        uses: gradle/gradle-build-action@v3.1.0
+      - name: Setup Gradle
+        uses: gradle/actions/setup-gradle@v3
         with:
           gradle-version: 8.13
-          arguments: clean
 
       - name: Build Fdroid Debug APK
-        run: ./gradlew assembleFdroidDebug
+        run: ./gradlew assembleFdroidDebug --stacktrace
 
       - name: Upload Fdroid Debug APK
         uses: actions/upload-artifact@v4
         with:
           name: fdroid-debug-apk
-          path: app/build/outputs/apk/fdroid/debug
+          path: app/build/outputs/apk/fdroid/debug/*.apk
