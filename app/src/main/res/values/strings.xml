@@ -9,7 +9,7 @@
     <string name="app_icon">app_icon</string>
     <string name="accessibility_permission_app_blocker">
         This feature needs the Display over other apps permission to work. Please turn that on first, then turn this on. If something stops working, restart the app.\n\n
-        Turning this on lets Curbox do these things for you:\n1. Block apps\n2. Block short form content\n3. Block websites and keywords\n4. Focus Mode\n5. Hide parts of an app\'s screen that distract you\n6. See how long you spend in each app\n7. Count how much short form content you scroll, and show the count in a floating overlay\n8. See which websites you visit and for how long\n\n
+        Turning this on lets Curbox do these things for you:\n1. Block apps\n2. Block short form content\n3. Block websites and keywords\n4. Focus Mode\n5. Hide parts of an app\'s screen that distract you\n6. See how long you spend in each app\n7. Count how many short-form videos you scroll through, and show the count in a floating overlay\n8. See which websites you visit and for how long\n\n
         Curbox needs accessibility access to see which app, website, or screen you are on, so it can block it the way you set and keep your usage stats. Without this, none of it can work.\n\n
         Curbox never shares anything without your permission.
         \n\n
@@ -53,10 +53,10 @@
     </plurals>
     <string name="quick_setup_guide">Quick Setup Guide</string>
     <string name="curbox_needs_accessibility_permissions_to_help">focus needs Accessibility permissions to help you track your screen time. The setup process varies based on how you installed the app.</string>
-    <string name="mohamadahmad_installation">mohamadahmad Installation</string>
-    <string name="installed_via_mohamadahmad_appnyoure_all_set">✅ Installed via mohamadahmad app?\nYou are all set! Just follow the accessibility setup in the next step.\n\n⚠️ Downloaded from mohamad ahmad website?\nPlease install through the mohamad ahmad app instead to avoid permission issues.</string>
+    <string name="mohamadahmad_installation">Mohamad Ahmad Installation</string>
+    <string name="installed_via_mohamadahmad_appnyoure_all_set">✅ Installed via the Mohamad Ahmad app?\nYou are all set! Just follow the accessibility settings in the next step.\n\n⚠️ Downloaded from the Mohamad Ahmad website?\nPlease install through the Mohamad Ahmad app instead to avoid permission issues.</string>
     <string name="apk_installation">APK Installation</string>
-    <string name="if_you_installed_from_an_apk">If you installed from an APK, follow these steps:\n\n1️⃣ Open Settings → Appeach focus\n\n2️⃣ Tap Permissions → Special App Access → Accessibility → Enable focus\n\n3️⃣ Return to focus App Info → Scroll down → Tap Restricted Settings → Allow\n\n💡 Pro tip: Install via mohamadahmad app for a smoother setup! 🚀</string>
+    <string name="if_you_installed_from_an_apk">If you installed from an APK, follow these steps:\n\n1️⃣ Open Settings → App Info → focus\n\n2️⃣ Tap Permissions → Special App Access → Accessibility → Enable focus\n\n3️⃣ Return to focus App Info → Scroll down → Tap Restricted Settings → Allow\n\n💡 Pro tip: Install via the Mohamad Ahmad app for a smoother setup! 🚀</string>
     <string name="usage_timeline">Usage Timeline</string>
     <string name="screentime">Screentime</string>
     <string name="app_opens">App Opens</string>
