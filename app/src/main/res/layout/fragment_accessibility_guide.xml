@@ -97,7 +97,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_marginStart="12dp"
-                            android:text="@string/fdroid_installation"
+                            android:text="@string/mohamadahmad_installation"
                             android:textColor="?attr/colorOnSurface" />
 
                     </LinearLayout>
@@ -110,7 +110,7 @@
                         android:layout_marginTop="12dp"
                         android:letterSpacing="0.02"
                         android:lineSpacingMultiplier="1.2"
-                        android:text="@string/installed_via_fdroid_appnyoure_all_set"
+                        android:text="@string/installed_via_mohamadahmad_appnyoure_all_set"
                         android:textColor="?attr/colorOnSurfaceVariant" />
 
                 </LinearLayout>
