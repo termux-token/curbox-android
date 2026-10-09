@@ -26,7 +26,7 @@ jobs:
           gradle-version: 8.13
 
       - name: Build Fdroid Debug APK
-        run: ./gradlew assembleFdroidDebug --stacktrace
+        run: ./gradlew assembleFdroidDebug --info
 
       - name: Upload Fdroid Debug APK
         uses: actions/upload-artifact@v4
