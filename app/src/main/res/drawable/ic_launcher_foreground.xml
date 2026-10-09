@@ -1,12 +1,29 @@
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="108dp"
     android:height="108dp"
-    android:viewportWidth="108"
-    android:viewportHeight="108">
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- رسم خلفية سوداء حديثة وفخمة -->
     <path
-        android:fillColor="#3DDC84"
-        android:pathData="M73,43 C76,43 78,41 78,38 C78,35 76,33 73,33 C70,33 68,35 68,38 C68,41 70,43 73,43 Z M35,43 C38,43 40,41 40,38 C40,35 38,33 35,33 C32,33 30,35 30,38 C30,41 32,43 35,43 Z M54,74 C69,74 81,66 84,54 L24,54 C27,66 39,74 54,74 Z" />
+        android:fillColor="#FF000000"
+        android:pathData="M15,0 L85,0 A15,15 0 0 1 100,15 L100,85 A15,15 0 0 1 85,100 L15,100 A15,15 0 0 1 0,85 L0,15 A15,15 0 0 1 15,0 Z" />
+
+    <!-- رسم كلمة "Cure" بخط أبيض أنيق وفخم وحديث -->
     <path
-        android:fillColor="#3DDC84"
-        android:pathData="M54,26 C63,26 71,29 77,34 L83,28 C84,27 86,27 87,28 C88,29 88,31 87,32 L81,38 C88,43 92,50 93,58 L15,58 C16,50 20,43 27,38 L21,32 C20,31 20,29 21,28 C22,27 24,27 25,28 L31,34 C37,29 45,26 54,26 Z" />
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M25,40 L30,40 L30,30 L40,30 L40,40 L45,40 L45,45 L40,45 L40,55 L30,55 L30,45 L25,45 Z
+                         M52,38 L58,38 L58,33 L62,33 L62,38 L68,38 L68,43 L62,43 L62,55 L58,55 L58,43 L52,43 Z" />
+
+    <!-- رسم كلمة "Box" بخط أبيض أنيق وفخم وحديث -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M25,65 L35,65 L35,55 L45,55 L45,65 L55,65 L55,70 L45,70 L45,80 L35,80 L35,70 L25,70 Z
+                         M62,63 L68,63 L68,58 L72,58 L72,63 L78,63 L78,68 L72,68 L72,80 L68,80 L68,68 L62,68 Z" />
+
+    <!-- رسم خط أبيض تحت الكلمة للتميز -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M20,85 L80,85 L80,88 L20,88 Z" />
+
 </vector>
