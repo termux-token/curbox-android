@@ -53,10 +53,10 @@
     </plurals>
     <string name="quick_setup_guide">Quick Setup Guide</string>
     <string name="curbox_needs_accessibility_permissions_to_help">focus needs Accessibility permissions to help you track your screen time. The setup process varies based on how you installed the app.</string>
-    <string name="mohamad ahmad_installation">mohamad ahmad Installation</string>
-    <string name="installed_via_mohamad ahmad_appnyoure_all_set">✅ Installed via mohamad ahmad app?\nYou\'re all set! Just follow the accessibility setup in the next step.\n\n⚠️ Downloaded from mohamad ahmad website?\nPlease install through the mohamad ahmad app instead to avoid permission issues.</string>
+    <string name="mohamadahmad_installation">mohamadahmad Installation</string>
+    <string name="installed_via_mohamadahmad_appnyoure_all_set">✅ Installed via mohamadahmad app?\nYou\'re all set! Just follow the accessibility setup in the next step.\n\n⚠️ Downloaded from mohamad ahmad website?\nPlease install through the mohamad ahmad app instead to avoid permission issues.</string>
     <string name="apk_installation">APK Installation</string>
-    <string name="if_you_installed_from_an_apk">If you installed from an APK, follow these steps:\n\n1️⃣ Open Settings → Appeach focus\n\n2️⃣ Tap Permissions → Special App Access → Accessibility → Enable focus\n\n3️⃣ Return to focus App Info → Scroll down → Tap Restricted Settings → Allow\n\n💡 Pro tip: Install via mohamad ahmad app for a smoother setup! 🚀</string>
+    <string name="if_you_installed_from_an_apk">If you installed from an APK, follow these steps:\n\n1️⃣ Open Settings → Appeach focus\n\n2️⃣ Tap Permissions → Special App Access → Accessibility → Enable focus\n\n3️⃣ Return to focus App Info → Scroll down → Tap Restricted Settings → Allow\n\n💡 Pro tip: Install via mohamadahmad app for a smoother setup! 🚀</string>
     <string name="usage_timeline">Usage Timeline</string>
     <string name="screentime">Screentime</string>
     <string name="app_opens">App Opens</string>
